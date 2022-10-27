@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f3e500c8.chunk.css",
-    "main.js": "/portfolio/static/js/main.4e8141e2.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4e8141e2.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.79cdf125.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.79cdf125.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.81af2fa0.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.81af2fa0.js.map",
-    "static/js/2.af27aa33.chunk.js": "/portfolio/static/js/2.af27aa33.chunk.js",
-    "static/js/2.af27aa33.chunk.js.map": "/portfolio/static/js/2.af27aa33.chunk.js.map",
+    "static/js/2.f4ee4c19.chunk.js": "/portfolio/static/js/2.f4ee4c19.chunk.js",
+    "static/js/2.f4ee4c19.chunk.js.map": "/portfolio/static/js/2.f4ee4c19.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.6e94a1092e3c50f67bbeb95006b65ef0.js": "/portfolio/precache-manifest.6e94a1092e3c50f67bbeb95006b65ef0.js",
+    "precache-manifest.b9f8b3075cb808e66c234bd9a7aae3d2.js": "/portfolio/precache-manifest.b9f8b3075cb808e66c234bd9a7aae3d2.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.f3e500c8.chunk.css.map": "/portfolio/static/css/main.f3e500c8.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Rust_logo.png": "/portfolio/static/media/Rust_logo.7af416f8.png",
     "static/media/address_image.svg": "/portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.be4f4800.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.dcd6dee2.svg",
@@ -51,12 +52,13 @@
     "static/media/stony-brook-university-logo-vertical.png": "/portfolio/static/media/stony-brook-university-logo-vertical.7ae01c81.png",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/portfolio/static/media/talksCardBackAlt.3fa54242.svg",
+    "static/media/tensor-logo.png": "/portfolio/static/media/tensor-logo.2aca2c0b.png",
     "static/media/ui_ux_design.svg": "/portfolio/static/media/ui_ux_design.d6363089.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.81af2fa0.js",
-    "static/js/2.af27aa33.chunk.js",
+    "static/js/2.f4ee4c19.chunk.js",
     "static/css/main.f3e500c8.chunk.css",
-    "static/js/main.4e8141e2.chunk.js"
+    "static/js/main.79cdf125.chunk.js"
   ]
 }

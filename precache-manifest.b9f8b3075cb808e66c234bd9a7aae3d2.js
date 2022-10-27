@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8757d2cdfad9efaabad1c37f27fce93",
+    "revision": "e670374416d5eb8012a8127c6cb4be48",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "5f749ecd624a19cacdd3",
+    "revision": "904db27d079ff487d6d3",
     "url": "/portfolio/static/css/main.f3e500c8.chunk.css"
   },
   {
-    "revision": "0a00c25cf453532ba53e",
-    "url": "/portfolio/static/js/2.af27aa33.chunk.js"
+    "revision": "80ca3d0740f16d885b83",
+    "url": "/portfolio/static/js/2.f4ee4c19.chunk.js"
   },
   {
-    "revision": "5f749ecd624a19cacdd3",
-    "url": "/portfolio/static/js/main.4e8141e2.chunk.js"
+    "revision": "904db27d079ff487d6d3",
+    "url": "/portfolio/static/js/main.79cdf125.chunk.js"
   },
   {
     "revision": "b55240ea26b8d5d3aa4d",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "7af416f88ae048889dac08f8b6e642b2",
+    "url": "/portfolio/static/media/Rust_logo.7af416f8.png"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -262,6 +266,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fa5424232370e3d049c9555d9c440a4",
     "url": "/portfolio/static/media/talksCardBackAlt.3fa54242.svg"
+  },
+  {
+    "revision": "2aca2c0b30e101d9b87a0e8952e727db",
+    "url": "/portfolio/static/media/tensor-logo.2aca2c0b.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
