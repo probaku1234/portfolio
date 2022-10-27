@@ -1,0 +1,61 @@
+{
+    "greeting": {
+        "title": "이연섭",
+
+        "nickname": "피카츄",
+        "subTitle": "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact."
+    },
+    "skills": [
+        {
+            "title": "Full Stack Development",
+            "skills": [
+                "⚡ Building responsive website front end using React-Redux",
+                "⚡ Developing applications using Flutter, React Native and solo android apps using Kotlin",
+                "⚡ Creating application backend in Node, Express, Django"
+            ]
+        },
+        {
+            "title": "Cloud Infra-Architecture",
+            "skills": [
+                "⚡ Experience working on multiple cloud platforms",
+                "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+                "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS"
+            ]
+        }
+    ],
+    "degrees": {
+        "title": "",
+        "descriptions": [
+            "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS etc.",
+            "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+            "⚡ I was selected for Dean’s list in 2017 fall and 2018 spring semester"
+        ]
+    },
+    "experiences": {
+        "title": "Experience",
+        "subtitle": "Work, Internship and Volunteership",
+        "description": "I have worked with evolving startups as Full-Stack developer. I contributed to build an scalable web application using lots of technologies.",
+        "work": [{
+           "title": "Software Developer (Full-Stack Developer)",
+           "duration": "Sep 2020 – Aug 2022",
+           "location": "Texas, US",
+           "description": "As a member of the data platform team, I focused on writing code to support data processing, including writing, updating, reading, validating, and formatting data with Typescript. I was involved in changing data store from PostgresSQL to MongoDB for  scalability. For that I implemented DBConnector for CRUD operations with MongoDB in NodeJS environment"
+          }
+        ],
+        "intern": [
+            {
+                "title": "Software Developer Intern",
+                "duration": "May 2019 – August 2019",
+                "location": "Washington DC, US",
+                "description": "I contributed on building the company's main product, a series of mobile-optimized, consumer-facing news sites with an internal content management system. I added new search field on CMS so that editors can find certain post easier. I also made new ad templates that are now used on all company websites to improve inefficient ad rendering process on Google Ad Manager "
+            }
+        ]
+    },
+    "volunteer": {
+
+    },
+    "projectsHeader": {
+        "title": "Projects",
+        "description": "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure."
+    }
+}
